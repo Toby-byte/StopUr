@@ -17,16 +17,16 @@ color: rgb(255, 102, 47);
 
 @media only screen and (max-width: 600px) {
     #timeDisplay{
-    font-size: calc(5vw + 20px);
+    font-size: calc(14vw + 20px);
     }
     }
     
     @media only screen and (min-width: 601px) {
     #timeDisplay{
-    font-size: calc(2vw + 30px);
+    font-size: calc(9vw + 30px);
     }
     }
-    
+
 #timeContainer{
 display: flex;
 flex-direction: column;
