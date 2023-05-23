@@ -10,10 +10,10 @@ font-family: consolas, monospace;
 }
 
 #timeDisplay{
-font-size: 120px;
+font-size: calc(10vw + 30px);
 font-family: consolas, monospace;
 color: rgb(255, 102, 47);
-}
+}    
 
 #timeContainer{
 display: flex;
